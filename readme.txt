@@ -2,6 +2,7 @@
 Contributors: rohanveer,pradeep.sonawane
 Requires at least: 3.0.1
 Tested up to: 4.0
+Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,18 +14,18 @@ If you are using myCRED plugin to set points for user. Consider a situation wher
 You can select the number of users to be executed at once.
 
 This plugin will recalculate the following points : 
-* Registration
-* Publishing Post
-* Publishing Page
-* Approved Comment
-* Uploading Photo
-* Uploading Video
-* Uploading Music
+*  Registration
+*  Publishing Post
+*  Publishing Page
+*  Approved Comment
+*  Uploading Photo
+*  Uploading Video
+*  Uploading Music
 
 == Installation ==
-Install \"myCRED Points Recalculate\" either via the WordPress.org plugin directory, or by uploading the files to your server.
+Install "myCRED Points Recalculate" either via the WordPress.org plugin directory, or by uploading the files to your server.
 
-Activate \"myCRED Points Recalculate\" in the \"Plugins\" admin panel using the \"Activate\" link. If you\'re using WordPress Multisite, you can choose to activate \"myCRED Points Recalculate\" network wide for full integration with all of your site.
+Activate "myCRED Points Recalculate" in the "Plugins" admin panel using the "Activate" link. If you're using WordPress Multisite, you can choose to activate "myCRED Points Recalculate" network wide for full integration with all of your site.
 
 == Screenshots ==
 
