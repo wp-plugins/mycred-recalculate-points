@@ -14,13 +14,14 @@ If you are using myCRED plugin to set points for user. Consider a situation wher
 You can select the number of users to be executed at once.
 
 This plugin will recalculate the following points : 
-*  Registration
-*  Publishing Post
-*  Publishing Page
-*  Approved Comment
-*  Uploading Photo
-*  Uploading Video
-*  Uploading Music
+
+* Registration
+* Publishing Post
+* Publishing Page
+* Approved Comment
+* Uploading Photo
+* Uploading Video
+* Uploading Music
 
 == Installation ==
 Install "myCRED Points Recalculate" either via the WordPress.org plugin directory, or by uploading the files to your server.
